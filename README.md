@@ -7,7 +7,10 @@
 
 ## Tech Stack
 ![JAVA](https://img.shields.io/badge/JAVA-black?style=flat-square&logo=openjdk&logoColor=white)
-![KOTLIN](https://img.shields.io/badge/KOTLIN-black?style=flat-square&logo=kotlin&logoColor=white)
+![SPRINGBOOT](https://img.shields.io/badge/SPRING%20FRAMEWORK-black?style=flat-square&logo=Spring&logoColor=green)
+![SPRINGDATA](https://img.shields.io/badge/SPRING%20BOOT-black?style=flat-square&logo=Spring&logoColor=green)
+![SPRINGBOOT](https://img.shields.io/badge/SPRING%20SECURITY-black?style=flat-square&logo=springsecurity&logoColor=green)
+
 
 
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-black?style=flat-square&logo=javascript)
