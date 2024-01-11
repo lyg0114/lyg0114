@@ -6,15 +6,15 @@
 - 📫 Reach me at: younggyo0114@gmail.com
 
 ## Tech Stack
-![Java](https://img.shields.io/badge/java-black?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-black?style=flat-square&logo=kotlin&logoColor=white)
+![JAVA](https://img.shields.io/badge/JAVA-black?style=flat-square&logo=openjdk&logoColor=white)
+![KOTLIN](https://img.shields.io/badge/KOTLIN-black?style=flat-square&logo=kotlin&logoColor=white)
 
 
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/REACT-black?style=flat-square&logo=react)
-![Vue.js](https://img.shields.io/badge/vuejs-black?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
-![Nuxtjs](https://img.shields.io/badge/Nuxt-black?style=flat-square&logo=nuxtdotjs)
-![NodeJS](https://img.shields.io/badge/NODEJS-black?style=flat-square&logo=node.js)
+![Vue.js](https://img.shields.io/badge/VUE-black?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
+![Nuxtjs](https://img.shields.io/badge/NUXT-black?style=flat-square&logo=nuxtdotjs)
+![NodeJS](https://img.shields.io/badge/NODE-black?style=flat-square&logo=node.js)
 
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-black?style=flat-square&logo=postgresql)
