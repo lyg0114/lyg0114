@@ -27,6 +27,5 @@
 ![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazon-aws&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/DOCKER-black?style=flat-square&logo=docker&logoColor=0db7ed)
 
-## Stats
-
-![github stats](https://github-readme-stats.vercel.app/api?username=lyg0114&show_icons=true&theme=dark)
+[//]: # (## Stats)
+[//]: # (![github stats]&#40;https://github-readme-stats.vercel.app/api?username=lyg0114&show_icons=true&theme=dark&#41;)
